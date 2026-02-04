@@ -1,0 +1,12 @@
+Commands Used
+
+git clone https://github.com/dhavalkeerthi/MRIInterns2026A.git
+git branch
+
+git checkout -b Ansh.Shah
+New-Item Ansh.Shah.txt -Item
+Type File
+notepad Ansh.Shah.txt
+git add Ansh.Shah.txt
+git commit -m "Add Ansh.Shah.txt with git commands"
+git push -u origin Ansh.Shah
