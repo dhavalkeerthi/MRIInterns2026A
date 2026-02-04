@@ -7,8 +7,4 @@ git checkout -b heta.shah
 git add .
 git add heta.shah.txt
 git commit -m "Adding heta.shah.txt file"
-git push https://github.com/dhavalkeerthi/MRIInterns2026A
-git fetch
-git pull
-git pull origin main
-git request-pull heta.shah https://github.com/dhavalkeerthi/MRIInterns2026A main
+git push -u origin heta.shah
