@@ -1,0 +1,8 @@
+git clone https://github.com/dhavalkeerthi/MRIInterns2026A.git
+cd MRIInterns2026A
+git checkout -b Priya.Ranpura
+touch Priya.Ranpura.txt
+mv Priya.Ranpura.txt Users/BRD/
+git add Users/BRD/Priya.Ranpura.txt
+git commit -m "Add Priya.Ranpura.txt under Users/BRD"
+git push origin Priya.Ranpura

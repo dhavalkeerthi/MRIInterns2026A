@@ -1,0 +1,9 @@
+Git Commands Used
+
+1. git clone https://github.com/dhavalkeerthi/MRIInterns2026A.git
+
+2. cd MRIInterns2026A
+
+3. git checkout -b Priyanka.Pamnani
+
+4. touch Priyanka.Pamnani.txt
