@@ -5,4 +5,4 @@ cd BRD
 notepad Vidit.shah 
 git add .
 git commit -m"Commited the changes" 
-  
+git push origin Vidit.Shah
