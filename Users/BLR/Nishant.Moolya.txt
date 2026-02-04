@@ -5,5 +5,4 @@ cd BLR
 notepad Nishant.Moolya.txt
 git add .
 git commit -m "info: added file Nishant.Moolya.txt"
-git pull origin main
 git push origin Nishant.Moolya
