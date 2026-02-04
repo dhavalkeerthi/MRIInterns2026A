@@ -1,0 +1,9 @@
+git clone https://github.com/dhavalkeerthi/MRIInterns2026A.git
+cd MRIInterns2026A
+git checkout -b Parinitha.Bolwar
+cd Users/BLR
+ni Parinitha.Bolwar.txt 
+git status
+git add Users/BLR/Parinitha.Bolwar.txt
+git commit -m "Added Parinitha.Bolwar file"
+git push origin Parinitha.Bolwar

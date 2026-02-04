@@ -1,0 +1,20 @@
+git clone https://github.com/dhavalkeerthi/MRIInterns2026A.git
+
+cd MRIInterns2026A
+
+git checkout -b Pragathi.Poojary
+
+cd Users/BLR
+
+ni Pragathi.Poojary.txt 
+
+git status
+
+git add Pragathi.Poojary.txt
+
+git commit -m "Added Pragathi.Poojary.txt file"
+
+git push origin Pragathi.Poojary
+
+
+ 

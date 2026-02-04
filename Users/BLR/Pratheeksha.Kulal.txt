@@ -1,0 +1,12 @@
+git clone
+cd MRIInterns2026A
+git checkout -b Pratheeksha.Kulal
+ls
+cd Users
+ls
+cd BLR
+touch Pratheeksha.Kulal.txt
+git add .
+git commit -m "AddedAFile"
+git push -u origin Pratheeksha.Kulal
+
