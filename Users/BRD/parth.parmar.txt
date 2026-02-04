@@ -1,0 +1,8 @@
+git clone https://github.com/dhavalkeerthi/MRIInterns2026A.git
+cd MRIInterns2026A/
+git branch -M parth.parmar
+cd Users/BRD/
+touch parth.parmar.txt
+git add .
+git commit -m "added parth.parmar.txt"
+git push
