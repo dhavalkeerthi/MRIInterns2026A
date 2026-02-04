@@ -1,0 +1,12 @@
+cd Documents
+
+git clone https://github.com/dhavalkeerthi/MRIInterns2026A.git
+ls
+cd MRIInterns2026A
+git status
+$ git checkout -b Riddhiben.Trevadiya
+git branch
+git status
+git add .
+git commit -m "chore: added Riddhiben.Trevadiya text file"
+git push origin Riddhiben.Trevadiya
