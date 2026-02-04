@@ -1,6 +1,5 @@
 git clone https://github.com/dhavalkeerthi/MRIInterns2026A
 git add .
 git Checkout -b Harshith.Rai
-git add .
 git commit -m "Created new file Harshith.Rai.txt"
 git push origin Harshith.Rai
