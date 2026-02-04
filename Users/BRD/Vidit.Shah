@@ -1,0 +1,8 @@
+git clone https://github.com/dhavalkeerthi/MRIInterns2026A 
+git Checkout -b Vidit.Shah 
+cd Users 
+cd BRD 
+notepad Vidit.shah 
+git add .
+git commit -m"Commited the changes" 
+git push origin Vidit.Shah

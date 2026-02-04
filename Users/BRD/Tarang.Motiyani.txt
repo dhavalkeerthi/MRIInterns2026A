@@ -1,0 +1,17 @@
+git clone <repository-url>
+
+git checkout -b Tarang.Motiyani
+
+git status
+
+cd Users/BRD
+
+echo "" > Tarang.Motiyani.txt
+
+cd ../..
+
+git add Users/BRD/Tarang.Motiyani.txt
+
+git commit -m "Added Tarang.Motiyani.txt inside Users/BRD"
+
+git push origin Tarang.Motiyani

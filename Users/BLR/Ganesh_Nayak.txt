@@ -1,0 +1,7 @@
+git clone https://github.com/dhavalkeerthi/MRIInterns2026A 
+git Checkout -b Ganesh.Nayak
+git branch
+git status
+git add .
+git commit -m"Git commands used" 
+git push origin Ganesh.Nayak
