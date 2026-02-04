@@ -5,8 +5,7 @@ git clone https://github.com/dhavalkeerthi/MRIInterns2026A.git
 git checkout -b Vishwathma_Nooji
 
 git branch
-
-3.Commit
+git status
 git add .
-git commit -m "Added initial Git command file"
+git commit -m "Git commands used " 
 git push origin Vishwathma_Nooji
