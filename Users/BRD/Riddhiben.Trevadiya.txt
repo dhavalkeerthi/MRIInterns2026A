@@ -8,5 +8,8 @@ $ git checkout -b Riddhiben.Trevadiya
 git branch
 git status
 git add .
-git commit -m "chore: added Riddhiben.Trevadiya text file"
+git status
+git config user.name 
+git config user.email
+git commit -m " added Riddhiben.Trevadiya text file"
 git push origin Riddhiben.Trevadiya
