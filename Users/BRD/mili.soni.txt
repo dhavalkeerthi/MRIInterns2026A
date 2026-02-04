@@ -1,0 +1,10 @@
+git clone https://github.com/dhavalkeerthi/MRIInterns2026A
+git checkout -b mili.soni
+git status 
+git branch
+git add .
+git status
+git commit -m "text file added"
+git status
+git push -u origin mili.soni
+ 
