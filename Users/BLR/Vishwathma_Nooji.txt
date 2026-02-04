@@ -1,0 +1,11 @@
+1.Clone
+git clone https://github.com/dhavalkeerthi/MRIInterns2026A.git
+
+2.Create Branch
+git checkout -b Vishwathma_Nooji
+
+git branch
+git status
+git add .
+git commit -m "Git commands used " 
+git push origin Vishwathma_Nooji
