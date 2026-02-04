@@ -1,0 +1,12 @@
+git clone https://github.com/dhavalkeerthi/MRIInterns2026A.git
+cd MRIInterns2026A
+git checkout -b Athmika.Bhat
+git branch
+ls
+cd Users
+cd BLR
+notepad Athmika.Bhat.txt
+git status
+git add Athmika.Bhat.txt
+git commit -m "Add Athmika.Bhat.txt file"
+git push origin Athmika.Bhat
