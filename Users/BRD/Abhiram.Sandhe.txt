@@ -4,4 +4,4 @@ git branch Abhiram.Sandhe
 git checkout Abhiram.Sandhe
 git add Abhiram.Sandhe.txt
 git commit -m "Adding my text file to branch"
-git push --set-upstream origin Abhiram.Sandhe
+git push -u origin Abhiram.Sandhe
