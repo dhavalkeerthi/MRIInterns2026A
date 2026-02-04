@@ -1,0 +1,7 @@
+git clone 
+git status
+git branch Arya.Shah
+git checkout Arya.Shah
+git add Arya.Shah.txt
+git commit -m "Adding my text file to branch"
+git push -u origin Arya.Shah
