@@ -1,0 +1,11 @@
+git config --global user.name "Name"
+git config --global user.email "email@example.com"
+
+git clone https://github.com/dhavalkeerthi/MRIInterns2026A
+git Checkout -b Sanath.Suvarna
+cd Users
+cd BLR
+notepad Sanath.Suvarna
+git add.
+git commit -m"Commited the changes"
+git push origin Sanath.Suvarna
