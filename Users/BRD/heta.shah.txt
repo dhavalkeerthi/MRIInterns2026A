@@ -1,0 +1,10 @@
+git clone
+git status
+git branch
+git branch heta.shah
+git checkout heta.shah
+git checkout -b heta.shah
+git add .
+git add heta.shah.txt
+git commit -m "Adding heta.shah.txt file"
+git push -u origin heta.shah
