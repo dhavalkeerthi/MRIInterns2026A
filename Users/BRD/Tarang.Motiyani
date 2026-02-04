@@ -2,6 +2,8 @@ git clone <repository-url>
 
 git checkout -b Tarang.Motiyani
 
+git status
+
 cd Users/BRD
 
 echo "" > Tarang.Motiyani.txt
