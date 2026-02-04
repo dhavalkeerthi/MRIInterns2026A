@@ -1,0 +1,9 @@
+ git clone https://github.com/dhavalkeerthi/MRIInterns2026A.git
+cd MRIInterns2026
+git branch
+git checkout -b jalmayee.naik
+code .
+git status 
+git add .
+git commit -m "Adding Jalmayee.Naik.txt file"
+git push -u origin jalmayee.naik
