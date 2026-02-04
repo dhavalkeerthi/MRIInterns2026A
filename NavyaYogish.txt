@@ -1,5 +1,0 @@
-git installed
-Git clone  https://github.com/dhavalkeerthi/MRIInterns2026A
-directed to repo like cd MRIInterns2026A
-Created new branch using command like git checkout -b Navya.Yogish
-Creating new text file using mkdir NavyaYogish.txt file

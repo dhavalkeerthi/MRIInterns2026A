@@ -1,0 +1,11 @@
+git installed
+Git clone  https://github.com/dhavalkeerthi/MRIInterns2026A
+directed to repo like: cd MRIInterns2026A
+Created new branch using command like : git checkout -b Navya.Yogish
+Creating new text file using: touch users/BLR/Navya.Yogish.txt
+written all the steps
+git add .
+git commit -m "demo"
+git push -u origin navya.Yogish
+
+creating a pull request using: git pull
