@@ -1,0 +1,9 @@
+Steps:
+git clone https://github.com/dhavalkeerthi/MRIInterns2026A
+cd MRIInterns2026A/Users/BLR
+git checkout -b Annika.Prasanna
+code Annika.Prasanna.txt
+git add .
+git commit -m "Created a file and recorded all the commands that I used"
+git push --set-upstream origin Annika.Prasanna
+Compare and pull request sent
