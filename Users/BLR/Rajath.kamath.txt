@@ -1,1 +1,11 @@
-Rajath Kamath
+git installed
+Git clone  https://github.com/dhavalkeerthi/MRIInterns2026A
+directed to repo like: cd MRIInterns2026A
+Created new branch using command like : git checkout -b Rajath.kamath
+Creating new text file using: touch users/BLR/Rajath.Kamath.txt
+written all the steps
+git add .
+git commit -m "rajath demo"
+git push -u origin Rajath.Kamath
+
+creating a pull request using: git pull
